@@ -1,5 +1,3 @@
-# Bootcamp-Ciencia-de-Dados
-:computer: Bootcamp de Ciência de Dados realizado pela IGTI
+# Projetos_Data_Science
 
 
-Exercicios do Bootcamp
